@@ -4,7 +4,10 @@
 ## I am Narsingh Maurya
 
 I am trying to build this page like this https://github.com/c17hawke
-https://www.codecademy.com/resources/docs/markdown/images
+
+![Alt text](https://www.codecademy.com/resources/docs/markdown/images)
+
+![python](https://www.python.org/)
 <!--
 **narsingh2231/narsingh2231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
