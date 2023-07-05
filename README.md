@@ -11,6 +11,8 @@ I am trying to build this page like this https://github.com/c17hawke
 
 [![Python official site](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)](https://www.python.org/)
 
+https://github.com/yanshengjia/ml-road/blob/master/resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf
+
 ![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif 'High Five')
 <!--
 **narsingh2231/narsingh2231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
