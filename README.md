@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## I am Narsingh Maurya
 
-#### I am learning to write Markdown pages so that i can improve my notebooks and the documents related to the projects.
+#### I am learning to write Markdown pages so that I can improve my notebooks and the documents related to the projects.
 
 I am trying to build this page like this https://github.com/c17hawke
 
