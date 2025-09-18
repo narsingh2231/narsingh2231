@@ -88,8 +88,10 @@ Power BI | Dataiku | Matplotlib | Seaborn
 </p>  
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narsingh223&label=Profile%20views&color=0e75b6&style=flat" alt="c17hawke" /> </p>
+
 -->
----
+
+
 <!--
 ### Follow me on YouTube (click on the following logo): 
 <a href="https://www.youtube.com/c17hawke">
