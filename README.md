@@ -76,7 +76,7 @@ Power BI | Dataiku | Matplotlib | Seaborn
 - Sparkathon 2024 – **Winner (2nd Place)**  
 
 ---
-
+<!--
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=narsingh2231&show_icons=true&theme=radical" height="160"/>
@@ -86,7 +86,7 @@ Power BI | Dataiku | Matplotlib | Seaborn
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narsingh2231&layout=compact&theme=radical" height="160"/>
 </p>  
-<!--
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narsingh223&label=Profile%20views&color=0e75b6&style=flat" alt="c17hawke" /> </p>
 
 -->
@@ -97,14 +97,18 @@ Power BI | Dataiku | Matplotlib | Seaborn
 <a href="https://www.youtube.com/c17hawke">
   <img width=20% src="./images/yt-logo.png"></img>
 </a>
--->
+
 
 ### 🤝 Let’s Connect  
-<!-- 📫 Email: Ping me on Linkedin  [narsingh.iit@gmail.com](mailto:narsingh.iit@gmail.com)-->
+📫 Email: Ping me on Linkedin  [narsingh.iit@gmail.com](mailto:narsingh.iit@gmail.com)
 
 💼 [LinkedIn](https://www.linkedin.com/in/narsingh-maurya/)  
 🌐 Portfolio Website (Coming Soon!)  
 
+
+
 ---
+
+-->
 
 ![High Five](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif 'High Five')  
