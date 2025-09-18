@@ -96,8 +96,10 @@ Power BI | Dataiku | Matplotlib | Seaborn
   <img width=20% src="./images/yt-logo.png"></img>
 </a>
 -->
+
 ### 🤝 Let’s Connect  
 <!-- 📫 Email: Ping me on Linkedin  [narsingh.iit@gmail.com](mailto:narsingh.iit@gmail.com)-->
+
 💼 [LinkedIn](https://www.linkedin.com/in/narsingh-maurya/)  
 🌐 Portfolio Website (Coming Soon!)  
 
