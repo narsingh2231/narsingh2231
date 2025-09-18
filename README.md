@@ -46,7 +46,7 @@ Power BI | Dataiku | Matplotlib | Seaborn
 
 ---
 
-### 🔬 Techniques & Latest Tech I’m Exploring
+### 🔬 Techniques & Latest Tech I’m Exploring...
 - 🧠 **Agentic AI** – Building AI agents for autonomous task execution  
 - 🔗 **MCP (Model Context Protocol)** – Connecting models with external tools  
 - 📚 **LLMs & RAG** – Retrieval Augmented Generation for enterprise AI  
@@ -57,12 +57,13 @@ Power BI | Dataiku | Matplotlib | Seaborn
 ---
 
 ### 📊 Featured Projects
+<!--
 - **Risk-Sensing Using GenAI** → Real-time risk detection from global news sources  
 - **Estimation of Sales Velocity** → Predicting deal closure & win probability with Azure ML  
 - **Proposal Assistant (Athena)** → AI tool reducing proposal creation time by 60%  
 - **AI-Driven IT Ticket Resolution** → Automated ServiceNow ticketing with GenAI  
 - **Contracts.AI** → Extracting obligations from contracts using LLMs  
-
+-->
 👉 Check more on my [GitHub Repos](https://github.com/narsingh2231?tab=repositories)  
 
 ---
@@ -85,11 +86,18 @@ Power BI | Dataiku | Matplotlib | Seaborn
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narsingh2231&layout=compact&theme=radical" height="160"/>
 </p>  
-
+<!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=narsingh223&label=Profile%20views&color=0e75b6&style=flat" alt="c17hawke" /> </p>
+-->
 ---
-
+<!--
+### Follow me on YouTube (click on the following logo): 
+<a href="https://www.youtube.com/c17hawke">
+  <img width=20% src="./images/yt-logo.png"></img>
+</a>
+-->
 ### 🤝 Let’s Connect  
-📫 Email: [narsingh.iit@gmail.com](mailto:narsingh.iit@gmail.com)  
+<!-- 📫 Email: Ping me on Linkedin  [narsingh.iit@gmail.com](mailto:narsingh.iit@gmail.com)-->
 💼 [LinkedIn](https://www.linkedin.com/in/narsingh-maurya/)  
 🌐 Portfolio Website (Coming Soon!)  
 
