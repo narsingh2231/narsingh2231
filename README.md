@@ -3,49 +3,84 @@
 ---
 
 ## I am Narsingh Maurya  
-[My Resume](https://flowcv.com/resume/95hi0m77si-)  
-
-#### 🚀 About Me
-- 💻 Data Scientist in the making | Passionate about AI/ML and Data Engineering  
-- 🌱 Currently learning **Python, Machine Learning, Azure ML, and Deep Learning**  
-- 📘 Exploring **Markdown & GitHub Pages** to document projects and notebooks  
-- 🤝 Open to collaboration on **AI/ML projects and open-source contributions**  
-- 🎯 Goal: Build impactful data-driven solutions  
+🎓 Senior Data Scientist | Generative AI & ML Enthusiast  
+📄 [My Resume](https://flowcv.com/resume/95hi0m77si-) | [LinkedIn](https://www.linkedin.com/in/narsingh-maurya/) | [GitHub](https://github.com/narsingh2231)  
 
 ---
 
-## 🛠️ Skills & Tools  
+### 🚀 About Me
+- 🧑‍💻 Senior Data Scientist with 6+ years of experience in **AI/ML, NLP, and Generative AI**  
+- 💡 Specialized in **transformers, LLMs, and advanced AI applications**  
+- ☁️ Skilled in **Azure, AWS, GCP, and MLOps pipelines**  
+- 🤝 Mentor & collaborator, passionate about solving real-world business problems with AI  
+- 🎯 Currently working on **Agentic AI systems, RAG pipelines, and enterprise AI apps**  
+
+---
+
+### 🛠️ Skills & Tools  
+
+#### **Languages & Libraries**
+Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, PyTorch, TensorFlow)  
+
+#### **Databases & Web**
+SQL | MongoDB | Flask | Streamlit  
+
+#### **Cloud & DevOps**
+Azure ML | Azure OpenAI | Azure Databricks | Azure DevOps  
+AWS (SageMaker, Lambda, EC2) | GCP (Vertex AI, BigQuery)  
+Docker | Kubernetes | CI/CD | MLOps  
+
+#### **Visualization**
+Power BI | Dataiku | Matplotlib | Seaborn  
+
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="90" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
 </p>  
 
 ---
 
-## 📚 Recommended Resources  
-- [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/yanshengjia/ml-road/blob/master/resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)  
-- [Codecademy Markdown Guide](https://www.codecademy.com/resources/docs/markdown/images)  
+### 🔬 Techniques & Latest Tech I’m Exploring
+- 🧠 **Agentic AI** – Building AI agents for autonomous task execution  
+- 🔗 **MCP (Model Context Protocol)** – Connecting models with external tools  
+- 📚 **LLMs & RAG** – Retrieval Augmented Generation for enterprise AI  
+- 🛠️ **LangChain** – Framework for building AI-powered apps  
+- 🔄 **LangGraph** – Graph-based orchestration for multi-agent workflows  
+- ⚡ **Prompt Engineering** – Optimizing large language models for production  
 
 ---
 
-## 🔥 My Top Projects  
-- [Sales Velocity Estimation (Azure ML)](https://github.com/narsingh2231/sales-velocity-estimation)  
-- [Machine Learning Notebooks](https://github.com/narsingh2231/ml-notebooks)  
-- [Data Science Portfolio](https://github.com/narsingh2231/data-science-portfolio)  
+### 📊 Featured Projects
+- **Risk-Sensing Using GenAI** → Real-time risk detection from global news sources  
+- **Estimation of Sales Velocity** → Predicting deal closure & win probability with Azure ML  
+- **Proposal Assistant (Athena)** → AI tool reducing proposal creation time by 60%  
+- **AI-Driven IT Ticket Resolution** → Automated ServiceNow ticketing with GenAI  
+- **Contracts.AI** → Extracting obligations from contracts using LLMs  
+
+👉 Check more on my [GitHub Repos](https://github.com/narsingh2231?tab=repositories)  
 
 ---
 
-## 📊 GitHub Stats  
+### 🏆 Certifications
+- Azure AI Fundamentals (AI-900), Microsoft  
+- Dataiku Core Designer  
+- Generative AI (Coursera)  
+- Data Science for Engineers (NPTEL)  
+- Sparkathon 2024 – **Winner (2nd Place)**  
 
+---
+
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narsingh2231&show_icons=true&theme=radical" alt="Narsingh's GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narsingh2231&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=narsingh2231&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narsingh2231&theme=radical" height="160"/>
+</p>  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narsingh2231&layout=compact&theme=radical" height="160"/>
@@ -53,10 +88,10 @@
 
 ---
 
-## 🤝 Let’s Connect  
-- 📫 Email: [YourEmail@example.com]  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- 🌐 [Portfolio Website (Coming Soon!)]  
+### 🤝 Let’s Connect  
+📫 Email: [narsingh.iit@gmail.com](mailto:narsingh.iit@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/narsingh-maurya/)  
+🌐 Portfolio Website (Coming Soon!)  
 
 ---
 
